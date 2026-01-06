@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Data files (raw / large datasets)
+*.csv
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# Matplotlib cache
+.matplotlib/
+
+# Pytest cache (if any)
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
