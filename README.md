@@ -1,4 +1,3 @@
-```md
 # House-Price-Prediction
 
 ## Project Title and Team Members
@@ -72,7 +71,6 @@ project_root/
 │
 └── README.md
 ```
-
 ---
 
 ## Installation and Setup
