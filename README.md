@@ -151,5 +151,5 @@ notebooks/04_machine_learning.ipynb
 ---
 
 ## Author
-**Liza Giorgobiani** – University student & AI enthusiast
+**Elizabet Giorgobiani** 
 
