@@ -96,9 +96,8 @@ Contains implementations for regression models used for house price prediction. 
 
 #### Initialization
 ```python
-```
 RegressionModel(model_name="linear", random_state=42)
-
+```
 **Parameters:**
 
 - `model_name (str)`: Type of regression model. Options: `"linear"`, `"decision_tree"`, `"random_forest"`  
